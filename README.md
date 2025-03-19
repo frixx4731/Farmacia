@@ -25,7 +25,7 @@ Este es un sistema de punto de venta (POS) diseñado para la gestión de ventas 
 ### Pasos
 1. Clonar el repositorio:
    ```bash
-   git clone [https://github.com/usuario/repositorio.git](https://github.com/frixx4731/Farmacia.git)
+   https://github.com/frixx4731/Farmacia.git
    ```
 2. Entrar en la carpeta del proyecto:
    ```bash
