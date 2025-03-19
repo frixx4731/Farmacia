@@ -12,20 +12,20 @@ Este es un sistema de punto de venta (POS) diseñado para la gestión de ventas 
 - 🔐 **Gestión de usuarios y permisos:** Control de accesos y seguridad de la información.
 
 ## 🛠️ Tecnologías utilizadas
-- **Backend:** [Ejemplo: Node.js, Python, Java]
-- **Base de datos:** [Ejemplo: MySQL, PostgreSQL, MongoDB]
-- **Frontend:** [Ejemplo: React, Angular, Vue.js]
-- **Autenticación:** [Ejemplo: JWT, OAuth]
+- **Backend:** [Java]
+- **Base de datos:** [MySQL]
+- **Frontend:** [java]
+- **Autenticación:** [hash]
 
 ## 📦 Instalación
 ### Prerrequisitos
-- Tener instalado [Ejemplo: Node.js, Python, Docker, etc.]
+- Tener instalado [java]
 - Base de datos configurada
 
 ### Pasos
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/usuario/repositorio.git
+   git clone [https://github.com/usuario/repositorio.git](https://github.com/frixx4731/Farmacia.git)
    ```
 2. Entrar en la carpeta del proyecto:
    ```bash
@@ -63,7 +63,7 @@ Las contribuciones son bienvenidas. Para ello:
 3. Envía un pull request para revisión.
 
 ## 📩 Contacto
-Para dudas o soporte, contacta a [correo@ejemplo.com] o abre un issue en el repositorio.
+Para dudas o soporte, contacta a [frixx@gmail.com] o abre un issue en el repositorio.
 
 ---
 _¡Gracias por usar nuestro sistema de punto de venta para farmacias! 🏥💊_
